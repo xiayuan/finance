@@ -1,0 +1,15 @@
+# 敏感配置文件
+settings.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.env
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
